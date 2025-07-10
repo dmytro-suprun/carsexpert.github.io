@@ -1,0 +1,7 @@
+# _config.yml for GitHub Pages
+
+title: Cars Expert Blog
+description: A React-powered blog about cars, engines, and automotive trends
+url: "https://carsexpert.github.io"
+baseurl: ""  # Leave empty for user/organization site like carsexpert.github.io
+theme: null  # Not using Jekyll theme since you're serving a built React site
